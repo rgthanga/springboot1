@@ -8,3 +8,4 @@ class WeatherVariables(BaseModel):
 	visibility_km: float
 	pressure_milibars: float
 	current_weather_condition: float
+	
